@@ -1,5 +1,4 @@
 clc
-clear all
 disp('RN')
 disp('***\n FEM ANALYSIS OF 1-D Cantilever BAR WITH UDL and 3 nodes per element ==>>>>>>>');
 fprintf('\n \n');
